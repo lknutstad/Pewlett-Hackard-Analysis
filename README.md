@@ -10,5 +10,19 @@ Determine:
 
 ## Results
 
-![Fig8](analysis/Fig8.png)
+Our databasebase structure is illustrated through this entity relationship diagram:
+
+![EmployeeDB](data/EmployeeDB.png)
+
+#### 1.) The Number of Retiring Employees By Title 
+ 
+
+![retiring_titles_histogram](data/retiring_titles_histogram.png)
+
+- There are 2x more senior employees that are approaching retirement compared to non senior staff members.
+- Seniority is more significant than function role when considering retirement readiness. 
+
+#### 2.) Upcoming Retirees Eligible to Participate in Part-time Mentorship Program 
+
+![mentorship_eligibility_histogram](data/mentorship_eligibility_histogram.png)
 
