@@ -15,7 +15,7 @@ Our databasebase structure is illustrated through this entity relationship diagr
 
 #### 1.) The Number of Retiring Employees By Title 
 
-![retiring_titles_histogram](data/retiring_titles_histogram.png)
+![image](https://user-images.githubusercontent.com/16930677/123537021-498f1980-d6e2-11eb-9eb3-168c196c27b7.png)
 
 - There are 2x more senior employees that are approaching retirement compared to non senior staff members.
 - Seniority is more significant than function role when considering retirement readiness. 
