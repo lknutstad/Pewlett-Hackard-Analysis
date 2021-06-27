@@ -14,7 +14,6 @@ Our databasebase structure is illustrated through this entity relationship diagr
 ![EmployeeDB](data/EmployeeDB.png)
 
 #### 1.) The Number of Retiring Employees By Title 
- 
 
 ![retiring_titles_histogram](data/retiring_titles_histogram.png)
 
