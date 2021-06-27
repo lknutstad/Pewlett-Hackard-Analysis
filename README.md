@@ -29,5 +29,5 @@ Our databasebase structure is illustrated through this entity relationship diagr
 
 ### Summary
 
--  The "Silver Tsunami" has the potential of being 150,000 employees strong. Hiring at least half of that over the next 2-3 years would prevent catasrophe. 
--  There are rougly 1% of the silver tsunami available to mentor the new hiring wave.  That is unlikely to be enough to make a significant impact. 
+-  The "Silver Tsunami" has the potential of being 90,000 employees strong. Hiring at least half of that over the next 2-3 years would prevent catasrophe. 
+-  There are rougly 1.5% of the silver tsunami available to mentor the new hiring wave.  That is unlikely to be enough to make a significant impact. 
