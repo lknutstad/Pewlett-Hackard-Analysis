@@ -168,7 +168,8 @@ ORDER BY emp_no, to_date DESC;
 -- Retreive number of titles from unique titles
 SELECT COUNT (ut.title),
 	ut.title
+INTO retiring_titles
 FROM unique_titles as ut
---INTO retiring_titles
-GROUP BY title, 'count' DESC;
+GROUP BY title 
+ORDER BY count DESC;
 
